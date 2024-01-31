@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 👨‍💻 &nbsp; I’m currently working on web development technologies like JavaScript, React etc.
+- 👨‍💻 &nbsp; I’m currently working on web development technologies like JavaScript, React, etc.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for stress.
 
@@ -53,7 +53,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 <p align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)]()
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elsayed-mohsen/)](www.linkedin.com/in/elsayed-mohsen)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elsayedmawad01@gmail.com)](elsayedmawad01@gmail.com)
 
 </p>
