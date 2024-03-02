@@ -53,7 +53,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 <p align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elsayed-mohsen/)](www.linkedin.com/in/elsayed-mohsen)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/elsayed-mohsen)](www.linkedin.com/in/elsayed-mohsen)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elsayedmawad01@gmail.com)](elsayedmawad01@gmail.com)
 
 </p>
